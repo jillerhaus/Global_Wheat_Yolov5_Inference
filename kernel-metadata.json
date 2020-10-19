@@ -1,0 +1,13 @@
+{
+  "id": "johannesillerhaus/make-predictions",
+  "title": "Make Predictions",
+  "code_file": "make-predictions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": ["johannesillerhaus/working-yolov5", "johannesillerhaus/yolodaten"],
+  "competition_sources": ["global-wheat-detection"],
+  "kernel_sources": []
+}
